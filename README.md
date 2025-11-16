@@ -46,3 +46,5 @@ El proyecto cuenta con un menú principal que da acceso a los siguientes módulo
 - Sustitución del menú textual por una interfaz gráfica sencilla (JavaFX/Swing).
 
 - Añadir más ejercicios de práctica organizados por temas.
+
+*Repo creado como parte de mi aprendizaje en Java. ¡Todo feedback es bienvenido!*
